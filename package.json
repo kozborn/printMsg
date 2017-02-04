@@ -1,0 +1,19 @@
+{
+  "name": "print-msg",
+  "version": "1.0.0",
+  "description": "testing only",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kozborn/printMsg.git"
+  },
+  "author": "Piotr Kozubek <piotrkozubek@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kozborn/printMsg/issues"
+  },
+  "homepage": "https://github.com/kozborn/printMsg#readme"
+}
